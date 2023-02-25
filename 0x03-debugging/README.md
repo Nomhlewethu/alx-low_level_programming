@@ -1,1 +1,1 @@
-Learning Debugging
+This project is about debugging
